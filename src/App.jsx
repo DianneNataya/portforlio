@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import profilePhoto from './assets/Dian.jpg';
-import logo from './assets/logo.png';
+import logo from './assets/logonaid.png';
 import personalImage from './assets/4.jpg';
 import biteexImage from './assets/6.png';
 import restoImage from './assets/resto.jpg';
